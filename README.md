@@ -11,5 +11,5 @@ After entering my password, it generated an incident report shown in the screens
 
 3. I changed working directory from home/vboxuser to DevOps_Folder using the cd command as shown below.
 
-  ![cd screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/71d2e32c-61be-4496-ae20-87994c06896e)
+    ![cd screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/71d2e32c-61be-4496-ae20-87994c06896e)
 
