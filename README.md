@@ -17,4 +17,8 @@ After entering my password, it generated an incident report shown in the screens
 
    ![ls screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/756636eb-f991-4af7-a1c9-2ade0d00b5a6)
 
+5. I created a file "Learning_Linux, I then put in a small statement within the file. I ran the cat statement on the file and the result is shown below
+
+  ![cat screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/75a72132-9bfc-4e9e-abce-1d208efdd5ce)
+
 
