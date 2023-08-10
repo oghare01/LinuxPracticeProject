@@ -13,7 +13,7 @@ After entering my password, it generated an incident report shown in the screens
 
     ![cd screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/71d2e32c-61be-4496-ae20-87994c06896e)
 
-4. The different ls commands listed different directories as show below.
+4. The different ls commands listed different directories as show below
 
    ![ls screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/756636eb-f991-4af7-a1c9-2ade0d00b5a6)
 
