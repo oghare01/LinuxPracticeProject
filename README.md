@@ -83,5 +83,9 @@ After entering my password, it generated an incident report shown in the screens
 
 ![tar ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/a6219e80-f7b9-440f-979d-16133c7b92d4)
 
+21. chmod command used to change the privileges on the 'sqdoc_commands.sh file
+
+![chmod ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/59c7a005-701b-46f0-8f65-3308041d9cd1)
+
 
 
