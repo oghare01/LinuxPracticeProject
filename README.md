@@ -108,7 +108,18 @@ I then used the kill command on two of the IDs which generated the following res
 
 ![ping ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/b8f3b17f-b0fb-452d-b0f6-aa97bcdc9e52)
 
-26. Wget 
+26. Wget was used to download a file from wordpress
+
+![wget](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/056fd5e6-5092-4a64-a427-68f8d1b483d7)
+
+27. The uname command
+
+![uname ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/19ea4ab7-cfd4-4415-90c6-df9f813a5197)
+
+28. The top command
+
+![top ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/19cb2537-3968-44e1-9e68-5905e0a019a8)
+
 
  
 
