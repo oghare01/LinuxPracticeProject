@@ -62,3 +62,8 @@ After entering my password, it generated an incident report shown in the screens
 15. df command output
 
  ![df ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/c748be97-fec8-42b9-8ab0-4884896315c4)
+
+16. du command ouput
+
+![du ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/3b34ba6c-5129-47f2-bfe6-07982243de77)
+
