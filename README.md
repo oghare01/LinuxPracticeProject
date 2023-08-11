@@ -34,3 +34,11 @@ After entering my password, it generated an incident report shown in the screens
 8. I used the mkdir command to create a directory 'Gbedu' and created a sub directory Asake within the Gbedu directory. These are shown below.
 
    ![mkdir screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/e3f9a7cc-2f3e-4d0a-97b4-ae8ee830990d)
+
+9. rmdir command was used to remove the Gbedu and Asake files
+  
+   ![rm dir](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/56a6e8d1-5c0d-4afb-9094-9c8470bb90e9)
+
+10. rm used to remove the "Cat doc.odt" file from the Desktop folder
+
+  ![cat screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/8043a7e5-71bb-4871-bc69-7feae29b384e)
