@@ -120,6 +120,25 @@ I then used the kill command on two of the IDs which generated the following res
 
 ![top ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/19cb2537-3968-44e1-9e68-5905e0a019a8)
 
+29. The history command
+
+![history ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/12c5da08-42dc-4c41-8f70-03ca4689459b)
+
+30. man command used to generate the manual for 'ls'
+
+![man ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/c325f60c-2f03-49c3-bc36-be056c375094)
+
+31. The echo command
+
+![echo ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/95c09cae-de92-4a9f-bfed-c22a77eccc20)
+
+32. The zip command
+
+![zip ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/5f74bfc7-6674-4697-9d87-543bab1a030c)
+
+
+
+
 
  
 
