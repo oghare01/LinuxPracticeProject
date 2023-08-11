@@ -84,3 +84,4 @@ After entering my password, it generated an incident report shown in the screens
 ![tar ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/a6219e80-f7b9-440f-979d-16133c7b92d4)
 
 
+
