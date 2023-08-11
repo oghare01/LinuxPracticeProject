@@ -79,4 +79,8 @@ After entering my password, it generated an incident report shown in the screens
 
 ![df ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/2c995fb6-b08f-4729-8302-dc47298396f8)
 
+20. The tar command
+
+![tar ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/a6219e80-f7b9-440f-979d-16133c7b92d4)
+
 
