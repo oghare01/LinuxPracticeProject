@@ -48,4 +48,5 @@ After entering my password, it generated an incident report shown in the screens
  ![touch srnsht](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/2f691a8d-b36a-43cd-95f1-75a84b585082)
 
 12. the locate command gave the below issue
+
 ![locate issue](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/08dd154f-8ac7-4a93-ab38-e1b46ec0347b)
