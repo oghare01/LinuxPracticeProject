@@ -50,3 +50,7 @@ After entering my password, it generated an incident report shown in the screens
 12. the locate command gave the below issue
 
 ![locate issue](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/08dd154f-8ac7-4a93-ab38-e1b46ec0347b)
+
+13. The screenshot of the implenatation of the "find" command is shown below
+
+![Find ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/1a620ffb-f9a4-4c5b-ada4-05df89e5603c)
