@@ -108,7 +108,7 @@ I then used the kill command on two of the IDs which generated the following res
 
 ![ping ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/b8f3b17f-b0fb-452d-b0f6-aa97bcdc9e52)
 
-26. 
+26. Wget 
 
  
 
