@@ -25,3 +25,8 @@ After entering my password, it generated an incident report shown in the screens
 6. I used the cp command to copy the Linux_Learning file from my desktop to the home directory as shown below.
 
   ![cp screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/d790f43c-746f-4f67-b6ff-fe28286b90e4)
+
+7. The mv command was used to move the Learning_Linux Folder to the home directory and then also used to change the name of the file to Linux_Practice.
+   The result of the command is displayed in the attached picture.
+
+   ![mv screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/bc3109a7-0b92-4eb4-ba56-ebf995d8431b)
