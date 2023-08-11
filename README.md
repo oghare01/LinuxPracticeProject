@@ -67,3 +67,8 @@ After entering my password, it generated an incident report shown in the screens
 
 ![du ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/3b34ba6c-5129-47f2-bfe6-07982243de77)
 
+17. The head command as used to get the first few lines in the Linux_Practice file  as shown below
+
+![head ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/e19dc08b-e959-4cc6-b75a-544c47d0fb9e)
+
+
