@@ -54,3 +54,7 @@ After entering my password, it generated an incident report shown in the screens
 13. The screenshot of the implenatation of the "find" command is shown below
 
 ![Find ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/1a620ffb-f9a4-4c5b-ada4-05df89e5603c)
+
+14. the grep command
+
+![grep ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/7984f3bd-7a34-4350-937c-7c10a41e0193)
