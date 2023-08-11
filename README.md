@@ -42,3 +42,7 @@ After entering my password, it generated an incident report shown in the screens
 10. rm used to remove the "Cat doc.odt" file from the Desktop folder
 
   ![cat screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/8043a7e5-71bb-4871-bc69-7feae29b384e)
+
+11. touch screenshot used to create a file
+
+ ![touch srnsht](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/2f691a8d-b36a-43cd-95f1-75a84b585082)
