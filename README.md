@@ -71,4 +71,8 @@ After entering my password, it generated an incident report shown in the screens
 
 ![head ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/e19dc08b-e959-4cc6-b75a-544c47d0fb9e)
 
+18. he tail command was used to obtain the last few lines from the Linux_Practice document as shown below
+
+![tail ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/52b4f517-c9e0-4bfc-a4c7-c3cd053b2b51)
+
 
