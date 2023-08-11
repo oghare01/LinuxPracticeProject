@@ -75,4 +75,5 @@ After entering my password, it generated an incident report shown in the screens
 
 ![tail ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/52b4f517-c9e0-4bfc-a4c7-c3cd053b2b51)
 
+19. diff command
 
