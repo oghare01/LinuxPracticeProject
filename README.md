@@ -87,6 +87,31 @@ After entering my password, it generated an incident report shown in the screens
 
 ![chmod ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/59c7a005-701b-46f0-8f65-3308041d9cd1)
 
-22. The chown 
+22. The chown command used to change ownership of the archive_file
+
+![chown ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/36ab254a-4558-4c7d-9037-e7c747064a98)
+
+23. The jobs command did not list anything as I believe I would need to create one first
+
+![jobs ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/596c1f5a-da26-44b2-8350-e860c36c2c66)
+
+
+24. To use the kill command, I generated a list of PIDs using the ps ux command which generated the list below.
+
+![ps ux ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/33523d28-b0e8-4339-8db6-2eb0ed874c5b)
+
+I then used the kill command on two of the IDs which generated the following result
+
+![kill ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/24d412af-f813-4d6a-9c6f-c8aed72f3417)
+
+25. Ping command executed on 'yahoo.com' website
+
+![ping ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/b8f3b17f-b0fb-452d-b0f6-aa97bcdc9e52)
+
+26. 
+
+ 
+
+
 
 
