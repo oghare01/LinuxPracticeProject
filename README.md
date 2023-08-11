@@ -58,3 +58,7 @@ After entering my password, it generated an incident report shown in the screens
 14. the grep command
 
 ![grep ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/7984f3bd-7a34-4350-937c-7c10a41e0193)
+
+15. df command output
+
+ ![df ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/c748be97-fec8-42b9-8ab0-4884896315c4)
