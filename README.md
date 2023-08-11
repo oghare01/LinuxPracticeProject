@@ -30,3 +30,7 @@ After entering my password, it generated an incident report shown in the screens
    The result of the command is displayed in the attached picture.
 
   ![mv screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/bc3109a7-0b92-4eb4-ba56-ebf995d8431b)
+
+8. I used the mkdir command to create a directory 'Gbedu' and created a sub directory Asake within the Gbedu directory. These are shown below.
+
+   ![mkdir screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/e3f9a7cc-2f3e-4d0a-97b4-ae8ee830990d)
