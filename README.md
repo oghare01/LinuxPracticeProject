@@ -29,15 +29,15 @@ After entering my password, it generated an incident report shown in the screens
 7. The mv command was used to move the Learning_Linux Folder to the home directory and then also used to change the name of the file to Linux_Practice.
    The result of the command is displayed in the attached picture.
 
-  ![mv screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/bc3109a7-0b92-4eb4-ba56-ebf995d8431b)
+ ![mv screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/bc3109a7-0b92-4eb4-ba56-ebf995d8431b)
 
 8. I used the mkdir command to create a directory 'Gbedu' and created a sub directory Asake within the Gbedu directory. These are shown below.
 
-   ![mkdir screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/e3f9a7cc-2f3e-4d0a-97b4-ae8ee830990d)
+  ![mkdir screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/e3f9a7cc-2f3e-4d0a-97b4-ae8ee830990d)
 
 9. rmdir command was used to remove the Gbedu and Asake files
   
-   ![rm dir](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/56a6e8d1-5c0d-4afb-9094-9c8470bb90e9)
+  ![rm dir](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/56a6e8d1-5c0d-4afb-9094-9c8470bb90e9)
 
 10. rm used to remove the "Cat doc.odt" file from the Desktop folder
 
