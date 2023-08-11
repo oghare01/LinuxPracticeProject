@@ -29,4 +29,4 @@ After entering my password, it generated an incident report shown in the screens
 7. The mv command was used to move the Learning_Linux Folder to the home directory and then also used to change the name of the file to Linux_Practice.
    The result of the command is displayed in the attached picture.
 
-   ![mv screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/bc3109a7-0b92-4eb4-ba56-ebf995d8431b)
+  ![mv screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/bc3109a7-0b92-4eb4-ba56-ebf995d8431b)
