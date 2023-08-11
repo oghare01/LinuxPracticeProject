@@ -24,4 +24,4 @@ After entering my password, it generated an incident report shown in the screens
 
 6. I used the cp command to copy the Linux_Learning file from my desktop to the home directory as shown below.
 
-   ![cp screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/d790f43c-746f-4f67-b6ff-fe28286b90e4)
+  ![cp screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/d790f43c-746f-4f67-b6ff-fe28286b90e4)
