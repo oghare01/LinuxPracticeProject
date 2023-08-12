@@ -3,6 +3,9 @@
 After entering my password, it generated an incident report shown in the screenshot
 
 ![sudo screenshot](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/96d74e06-eb41-4ee4-8acc-3ab37253564d)
+I created a second machine and re ran the sudo command and it worked as shown in the following screenshot 
+
+![sudo2 ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/86b2a286-2446-4653-926f-3387dcd098a5)
 
 
 2. The pwd command showed the present working directory as expected hich is shown below.
@@ -136,9 +139,16 @@ I then used the kill command on two of the IDs which generated the following res
 
 ![zip ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/5f74bfc7-6674-4697-9d87-543bab1a030c)
 
+33. Hostname executed on the CLI
+
+![hostname ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/de6039eb-ce81-4d82-ad34-0d6ae84ec0e3)
+
+34. Useradd command
+
+![useradd ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/de270334-9773-476b-861c-5a873f9573c8)
 
 
-
+35. 
 
  
 
