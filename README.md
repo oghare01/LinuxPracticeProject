@@ -147,7 +147,16 @@ I then used the kill command on two of the IDs which generated the following res
 
 ![useradd ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/de270334-9773-476b-861c-5a873f9573c8)
 
+35. apt-get commmand implementation
 
+![apt-get ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/05aae682-2bb8-44f8-8830-05a6f9d92d71)
+
+
+36. the nano command yielded the below result
+
+![nano ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/45142a75-3d13-4deb-a345-dd3979860ece)
+
+    
 37. Alias and unalias commands
 
 ![alias ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/3d795860-57c3-46c6-8f6f-c78532f6a873)
