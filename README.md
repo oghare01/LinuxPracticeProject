@@ -148,7 +148,23 @@ I then used the kill command on two of the IDs which generated the following res
 ![useradd ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/de270334-9773-476b-861c-5a873f9573c8)
 
 
-35. 
+37. Alias and unalias commands
+
+![alias ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/3d795860-57c3-46c6-8f6f-c78532f6a873)
+
+
+38. Su command implementation in the Linux terminal
+
+![su ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/48f93763-29aa-4309-9ffb-b18338528a05)
+
+39. htop execution on the Linux CLI
+
+![htop ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/ae7dce56-a13f-41d2-840f-762452067b9c)
+
+40. ps command
+
+![ps ss](https://github.com/oghare01/LinuxPracticeProject/assets/141191975/ab5954df-816e-4b5b-9e24-dd673aceee66)
+
 
  
 
